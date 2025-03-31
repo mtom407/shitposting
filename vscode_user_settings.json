@@ -1,0 +1,40 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.lightIndicatorStyleLineWidth": 5,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "window.titleBarStyle": "custom",
+    "notebook.formatOnSave.enabled": true,
+    "notebook.formatOnCellExecution": true,
+    "editor.formatOnSave": true,
+    "python.analysis.extraPaths": [
+        "C:\\Users\\tvsii\\anaconda3\\envs\\dash\\python.exe"
+    ],
+    "interactiveWindow.executeWithShiftEnter": true,
+    // "editor.tokenColorCustomizations": {
+    //     "numbers": "#a7c0b6",
+    //     "comments": "#94866a"
+    // },
+    // Name of the predefined style used as a fallback in case `clang-format` is invoked with style `file` but the `.clang-format` file is not found. Possible values are `Visual Studio`, `LLVM`, `Google`, `Chromium`, `Mozilla`, `WebKit`, `Microsoft`, `GNU`, `none`, or use `{key: value, ...}` to set specific parameters. For example, the `Visual Studio` style is similar to: `{ BasedOnStyle: LLVM, UseTab: Never, IndentWidth: 4, TabWidth: 4, BreakBeforeBraces: Allman, AllowShortIfStatementsOnASingleLine: false, IndentCaseLabels: false, ColumnLimit: 0, AccessModifierOffset: -4, NamespaceIndentation: All, FixNamespaceComments: false }`.
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, UseTab: Never, IndentWidth: 4, TabWidth: 4, BreakBeforeBraces: Attach, AllowShortIfStatementsOnASingleLine: false, IndentCaseLabels: false, ColumnLimit: 0, AccessModifierOffset: -4 }",
+    "workbench.colorCustomizations": {
+        "[Default Dark+]": {
+            "activityBar.foreground": "#2896fd",
+            "activityBar.inactiveForeground": "#e9e7e869",
+            "dropdown.border": "#2896fd"
+        },
+        "[GitHub Light]": {
+            "activityBar.foreground": "#fd9a28",
+            "activityBar.background": "#181717",
+            "statusBar.background": "#fd9a28",
+            "statusBar.foreground": "#000000",
+            "statusBarItem.remoteBackground": "#000000",
+            "statusBarItem.remoteForeground": "#fd9a28"
+        }
+    },
+}
